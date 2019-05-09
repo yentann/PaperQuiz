@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PaperQuiz</string>
+    <string name="editTextID" />
+    <string name="editTextName" />
+    <string name="editTextGPA" />
+    <string name="btnInsert">INSERT</string>
+    <string name="btnRetrieve">RETRIEVE</string>
+</resources>
